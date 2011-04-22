@@ -1,4 +1,4 @@
-1303363319
+1303458677
 APP_URL	/home/finrod/Documents/projects/rpress/config/environments/development.rb	APP_URL =
 Application	/home/finrod/Documents/projects/rpress/config/application.rb	  class Application 
 ApplicationController	/home/finrod/Documents/projects/rpress/app/controllers/application_controller.rb	class ApplicationController 
@@ -40,6 +40,7 @@ collect	/home/finrod/Documents/projects/rpress/public/javascripts/prototype.js	f
 compact	/home/finrod/Documents/projects/rpress/public/javascripts/prototype.js	function compact()
 concat	/home/finrod/Documents/projects/rpress/public/javascripts/prototype.js	function concat()
 copy	/home/finrod/Documents/projects/rpress/public/javascripts/prototype.js	function copy(methods, destination, onlyIfAbsent)
+create	/home/finrod/Documents/projects/rpress/app/controllers/posts_controller.rb	  def create
 create	/home/finrod/Documents/projects/rpress/public/javascripts/prototype.js	function create()
 cssNameFor	/home/finrod/Documents/projects/rpress/public/javascripts/prototype.js	function cssNameFor(key)
 cumulativeOffset	/home/finrod/Documents/projects/rpress/public/javascripts/prototype.js	function cumulativeOffset(element)
@@ -161,6 +162,7 @@ select	/home/finrod/Documents/projects/rpress/public/javascripts/prototype.js	fu
 select	/home/finrod/Documents/projects/rpress/public/javascripts/prototype.js	function select(selector, scope)
 selector_for	/home/finrod/Documents/projects/rpress/features/support/selectors.rb	  def selector_for(locator)
 set	/home/finrod/Documents/projects/rpress/public/javascripts/prototype.js	function set(key, value)
+show	/home/finrod/Documents/projects/rpress/app/controllers/posts_controller.rb	  def show
 size	/home/finrod/Documents/projects/rpress/public/javascripts/prototype.js	function size()
 size	/home/finrod/Documents/projects/rpress/public/javascripts/prototype.js	function size()
 sortBy	/home/finrod/Documents/projects/rpress/public/javascripts/prototype.js	function sortBy(iterator, context)
