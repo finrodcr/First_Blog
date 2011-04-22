@@ -1,4 +1,4 @@
-1303458677
+1303498499
 APP_URL	/home/finrod/Documents/projects/rpress/config/environments/development.rb	APP_URL =
 Application	/home/finrod/Documents/projects/rpress/config/application.rb	  class Application 
 ApplicationController	/home/finrod/Documents/projects/rpress/app/controllers/application_controller.rb	class ApplicationController 
@@ -59,6 +59,7 @@ down	/home/finrod/Documents/projects/rpress/db/migrate/20110420210035_create_use
 each	/home/finrod/Documents/projects/rpress/public/javascripts/prototype.js	function each(iterator)
 each	/home/finrod/Documents/projects/rpress/public/javascripts/prototype.js	function each(iterator, context)
 eachSlice	/home/finrod/Documents/projects/rpress/public/javascripts/prototype.js	function eachSlice(number, iterator, context)
+edit	/home/finrod/Documents/projects/rpress/app/controllers/posts_controller.rb	  def edit
 element	/home/finrod/Documents/projects/rpress/public/javascripts/prototype.js	function element(event)
 empty	/home/finrod/Documents/projects/rpress/public/javascripts/prototype.js	function empty()
 endsWith	/home/finrod/Documents/projects/rpress/public/javascripts/prototype.js	function endsWith(pattern)

@@ -7,6 +7,10 @@ Given /^I have a user named "([^"]*)"$/ do |name|
 end
 
 When /^I save "([^"]*)"$/ do |arg1|
-  pending # express the regexp above with the code you wish you had
+ pending # express the regexp above with the code you wish you had
+end
+
+When /^I edit the post$/ do
+  visit "/posts/edit/#{@post.id}"
 end
 
